@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am currently learning how to program in Python while doing an apprenticeship as a platform developer to enhance my knowledge :) 
+#### I am currently learning how to program in Python while doing an apprenticeship as a platform developer to enhance my knowledge and skill in this fast changing world of technology:) 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
